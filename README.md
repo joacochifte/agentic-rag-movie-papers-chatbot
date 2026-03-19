@@ -113,9 +113,14 @@ This repository is currently organized around the academic notebook implementati
 
 ```text
 .
+├── docs/
+│   └── screenshots/
+│       ├── architecture.png
+│       ├── chat-ui.png
+│       └── response-flow.png
+├── Documentación.pdf
 ├── README.md
 ├── Solución.ipynb
-└── Documentación.pdf
 ```
 
 ### Notes on the current structure
